@@ -20,6 +20,17 @@ The widget referenced below allows you to see the thresholds covered in the gif,
 
 <a href="https://gjkoplik.github.io/pers-hom-examples/0d_pers_2d_data_widget.html" title="0d pers Widget">Click here for the 0d peristent homology widget</a>
 
+# 1d Persistent Homology Example
+
+In the article, I include a gif showing 1d persistence values for a noisy circle of data:
+
+<center>
+<img src="1d_disks.gif" width="80%">
+</center>
+
+The widget referenced below allows you to see the thresholds covered in the gif, but with interactive control of the threshold:
+
+<a href="https://gjkoplik.github.io/pers-hom-examples/1d_pers_2d_data_widget.html" title="1d pers Widget">Click here for the 1d peristent homology widget</a>
 
 # Height Filtration Segmentation Example
 
