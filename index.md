@@ -10,6 +10,10 @@ All my visualizations were generated using `matplotlib` or `holoviews`.
 
 # Height Filtration Segmentation Example
 
-This widget allows you to see the connected components that form running the height filtration to aribtrary values:
+In the article, I include a static image from running the height filtration up to a specified threshold:
+
+![](../figures/segmentation_coverage.png){width=50%}
+
+The widget referenced below allows you to see the connected components that form running the height filtration to aribtrary values:
 
 <a href="https://gjkoplik.github.io/pers-hom-examples/segmentation_lowerstar_widget.html" title="Segmentation Widget">Click here for the segmentation widget</a>
