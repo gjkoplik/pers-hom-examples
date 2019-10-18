@@ -13,7 +13,7 @@ All my visualizations were generated using `matplotlib` or `holoviews`.
 In the article, I include a static image from running the height filtration up to a specified threshold:
 
 <center>
-<img src="segmentation_coverage.png" width="30%">
+<img src="segmentation_coverage.png" width="50%">
 </center>
 
 The widget referenced below allows you to see the connected components that form running the height filtration to aribtrary values:
