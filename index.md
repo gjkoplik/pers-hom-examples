@@ -1,4 +1,4 @@
-# Persistent Homology Placeholder
+# Persistent Homology Examples
 
 This repo exists to hold interactive html widgets related to my Towards Data Science Medium article.
 
@@ -12,4 +12,4 @@ All my visualizations were generated using `matplotlib` or `holoviews`.
 
 This widget allows you to see the connected components that form running the height filtration to aribtrary values:
 
-<a href="https://gjkoplik.github.io/persistent_homology_placeholder/segmentation_lowerstar_widget.html" title="Segmentation Widget">Click here for the segmentation widget</a>
+<a href="https://gjkoplik.github.io/pers-hom-examples/segmentation_lowerstar_widget.html" title="Segmentation Widget">Click here for the segmentation widget</a>
