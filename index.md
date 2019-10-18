@@ -13,7 +13,7 @@ All my visualizations were generated using `matplotlib` or `holoviews`.
 In the article, I include a gif showing connected components, with each color representing a unique component at a given threshold:
 
 <center>
-<img src="0d_disks_components.gif" width="50%">
+<img src="0d_disks_components.gif" width="80%">
 </center>
 
 The widget referenced below allows you to see the thresholds covered in the gif, but with interactive control of the threshold:
