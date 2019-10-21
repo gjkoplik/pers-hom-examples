@@ -32,6 +32,18 @@ The widget referenced below allows you to see the thresholds covered in the gif,
 
 <a href="https://gjkoplik.github.io/pers-hom-examples/1d_pers_2d_data_widget.html" title="1d pers Widget">Click here for the 1d peristent homology widget</a>
 
+# Signal Compression Example
+
+In the article, I include a gif showing the progressively more strict compression of a random walk:
+
+<center>
+<img src="compressed_signal.gif" width="80%">
+</center>
+
+The widget referenced below allows you to see the thresholds covered in the gif, but with interactive control of the threshold:
+
+<a href="https://gjkoplik.github.io/pers-hom-examples/signal_compression_widget.html" title="Signal Compression Widget">Click here for the signal compression widget</a>
+
 # Height Filtration Segmentation Example
 
 In the article, I include a static image from running the height filtration up to a specified threshold:
