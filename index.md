@@ -1,6 +1,6 @@
 # Persistent Homology Examples
 
-This repo exists to hold interactive html widgets referenced in my Towards Data Science Medium article.
+This repo exists to hold interactive html widgets referenced in my [Towards Data Science article](https://towardsdatascience.com/persistent-homology-with-examples-1974d4b9c3d0).
 
 Unfortunately, I cannot share code, as that belongs to my employer (Geometric Data Analytics). I can say that all the code is Python.
 
